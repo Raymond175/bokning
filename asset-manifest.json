@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bokning/static/css/main.7725bc3e.chunk.css",
+    "main.js": "/bokning/static/js/main.538900aa.chunk.js",
+    "main.js.map": "/bokning/static/js/main.538900aa.chunk.js.map",
+    "runtime-main.js": "/bokning/static/js/runtime-main.f6a48076.js",
+    "runtime-main.js.map": "/bokning/static/js/runtime-main.f6a48076.js.map",
+    "static/css/2.afecc25b.chunk.css": "/bokning/static/css/2.afecc25b.chunk.css",
+    "static/js/2.093954a9.chunk.js": "/bokning/static/js/2.093954a9.chunk.js",
+    "static/js/2.093954a9.chunk.js.map": "/bokning/static/js/2.093954a9.chunk.js.map",
+    "static/js/3.e00bc8b1.chunk.js": "/bokning/static/js/3.e00bc8b1.chunk.js",
+    "static/js/3.e00bc8b1.chunk.js.map": "/bokning/static/js/3.e00bc8b1.chunk.js.map",
+    "index.html": "/bokning/index.html",
+    "static/css/2.afecc25b.chunk.css.map": "/bokning/static/css/2.afecc25b.chunk.css.map",
+    "static/css/main.7725bc3e.chunk.css.map": "/bokning/static/css/main.7725bc3e.chunk.css.map",
+    "static/js/2.093954a9.chunk.js.LICENSE.txt": "/bokning/static/js/2.093954a9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bokning/static/media/bakgrundsbild.b44fbc08.png",
+    "static/media/primeicons.css": "/bokning/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6a48076.js",
+    "static/css/2.afecc25b.chunk.css",
+    "static/js/2.093954a9.chunk.js",
+    "static/css/main.7725bc3e.chunk.css",
+    "static/js/main.538900aa.chunk.js"
+  ]
+}
